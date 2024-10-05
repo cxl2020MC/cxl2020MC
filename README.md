@@ -10,3 +10,5 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cxl2020MC.home&left_color=green&right_color=red)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cxl2020mc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
