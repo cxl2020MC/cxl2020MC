@@ -9,6 +9,6 @@
 ![](https://img.shields.io/badge/dynamic/json?color=inactive&label=fork&query=forks&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fcxl2020MC)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cxl2020MC&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cxl2020MC.cxl2020MC&left_color=green&right_color=red)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cxl2020mc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
