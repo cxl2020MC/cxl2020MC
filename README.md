@@ -2,6 +2,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=cxl2020MC&show_icons=true)
 
+[![cxl2020MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxl2020MC)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&locale=cn)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxl2020MC)](https://github.com/anuraghazra/github-readme-stats)
 
 
