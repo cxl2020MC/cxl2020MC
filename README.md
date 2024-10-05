@@ -2,7 +2,7 @@
 
 [![cxl2020MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxl2020MC&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxl2020MC&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxl2020MC&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://img.shields.io/badge/dynamic/json?color=yellow&label=star&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fcxl2020MC)
