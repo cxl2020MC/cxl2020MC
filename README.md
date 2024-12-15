@@ -8,7 +8,7 @@
 
 [![cxl2020MC's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=cxl2020MC&show_icons=true&locale=cn&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxl2020MC&locale=cn&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxl2020MC&locale=cn&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![cxl2020MC's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cxl2020MC&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
