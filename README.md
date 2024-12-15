@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/dynamic/json?color=inactive&label=fork&query=forks&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fcxl2020MC)
 
 
-[![cxl2020MC's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cxl2020MC)](https://github.com/anuraghazra/github-readme-stats)
+[![cxl2020MC's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cxl2020MC&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=cxl2020MC.cxl2020MC&left_color=green&right_color=red) -->
 
