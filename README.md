@@ -8,11 +8,11 @@
 
 [![cxl2020MC's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=cxl2020MC&show_icons=true&locale=cn&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxl2020MC&locale=cn&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxl2020MC&locale=cn&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![cxl2020MC's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cxl2020MC&locale=cn)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![cxl2020MC's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cxl2020MC&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![cxl2020MC's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cxl2020MC&locale=cn&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![cxl2020MC's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cxl2020MC&locale=cn&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 ![](https://img.shields.io/badge/dynamic/json?color=yellow&label=star&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fcxl2020MC)
