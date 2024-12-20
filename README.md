@@ -23,3 +23,5 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=cxl2020MC.cxl2020MC&left_color=green&right_color=red) -->
 
 [![cxl2020MC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cxl2020MC)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://count.kjchmc.cn/get/@cxl2020mc-gh?theme=minecraft)
