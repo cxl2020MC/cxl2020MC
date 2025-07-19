@@ -37,6 +37,7 @@
 
 ![](https://count.kjchmc.cn/get/@cxl2020mc-gh?theme=minecraft)
 
+# GitRoll 统计徽标
 
 <a href="https://gitroll.io/profile/uWrEksvtcD2X6jPedmExRy48iLgM2" target="_blank">
 <picture>
