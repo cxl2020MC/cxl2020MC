@@ -27,4 +27,4 @@
 ![](https://count.kjchmc.cn/get/@cxl2020mc-gh?theme=minecraft)
 
 
-[！[](https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=dark)](https://gitroll.io/profile/uWrEksvtcD2X6jPedmExRy48iLgM2)
+[![](https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=dark)](https://gitroll.io/profile/uWrEksvtcD2X6jPedmExRy48iLgM2)
