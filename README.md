@@ -28,9 +28,12 @@
 
 ![WakeTine 编码时间统计卡片 亮色](https://wakatime.com/share/@cxl2020MC/9bffedfa-c956-431e-8025-75a97f96b19b.svg#gh-light-mode-only)
 
-![](https://wakatime.com/share/@cxl2020MC/ce0e998b-6484-4024-a1c2-dc297291ad53.svg#gh-light-mode-only)
 
-![](https://wakatime.com/share/@cxl2020MC/fc080330-aec0-4827-9c30-05c6aaaa7862.svg#gh-dark-mode-only)
+<picture>
+  <source srcset="https://wakatime.com/share/@cxl2020MC/fc080330-aec0-4827-9c30-05c6aaaa7862.svg" media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://wakatime.com/share/@cxl2020MC/ce0e998b-6484-4024-a1c2-dc297291ad53.svg" />
+</picture>
 
 ![](https://count.kjchmc.cn/get/@cxl2020mc-gh?theme=minecraft)
 
