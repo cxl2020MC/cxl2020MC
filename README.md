@@ -1,4 +1,4 @@
-## [我的博客](https://www.cxl2020mc.top)
+[我的博客](https://blog.cxl2020mc.top)
 
 [![cxl2020MC's GitHub stats Light](https://github-readme-stats.vercel.app/api?username=cxl2020MC&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
