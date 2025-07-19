@@ -30,6 +30,8 @@
 
 ![](https://wakatime.com/share/@cxl2020MC/ce0e998b-6484-4024-a1c2-dc297291ad53.svg)
 
+![](https://wakatime.com/share/@cxl2020MC/fc080330-aec0-4827-9c30-05c6aaaa7862.svg)
+
 ![](https://count.kjchmc.cn/get/@cxl2020mc-gh?theme=minecraft)
 
 
