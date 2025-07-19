@@ -25,3 +25,6 @@
 [![cxl2020MC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cxl2020MC)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://count.kjchmc.cn/get/@cxl2020mc-gh?theme=minecraft)
+
+
+<a href="https://gitroll.io/profile/uWrEksvtcD2X6jPedmExRy48iLgM2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=dark" alt="GitRoll Profile Badge"/></a>
