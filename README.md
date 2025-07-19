@@ -27,5 +27,5 @@
 ![](https://count.kjchmc.cn/get/@cxl2020mc-gh?theme=minecraft)
 
 
-[![](https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=dark#gh-dark-mode-only)![](https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=light#gh-light-mode-only](https://gitroll.io/profile/uWrEksvtcD2X6jPedmExRy48iLgM2)
+[![GitRoll Profile Badge Dark](https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=dark#gh-dark-mode-only)![GitRoll Profile Badge Light](https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=light#gh-light-mode-only](https://gitroll.io/profile/uWrEksvtcD2X6jPedmExRy48iLgM2)
 
