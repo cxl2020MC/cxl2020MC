@@ -38,5 +38,13 @@
 ![](https://count.kjchmc.cn/get/@cxl2020mc-gh?theme=minecraft)
 
 
-[![GitRoll Profile Badge Dark](https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=dark#gh-dark-mode-only)![GitRoll Profile Badge Light](https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=light#gh-light-mode-only)](https://gitroll.io/profile/uWrEksvtcD2X6jPedmExRy48iLgM2)
+<a href="https://gitroll.io/profile/uWrEksvtcD2X6jPedmExRy48iLgM2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=light" alt="GitRoll Profile Badge"/></a>
+
+<a href="https://gitroll.io/profile/uWrEksvtcD2X6jPedmExRy48iLgM2" target="_blank">
+<picture>
+  <source srcset="https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=dark" media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=light" art="GitRoll Profile Badge" />
+</picture>
+</a>
 
