@@ -24,6 +24,8 @@
 
 [![cxl2020MC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cxl2020MC)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](https://wakatime.com/share/@cxl2020MC/2190d612-931f-45de-bdd8-f370c6715c9e.svg)
+
 ![](https://count.kjchmc.cn/get/@cxl2020mc-gh?theme=minecraft)
 
 
