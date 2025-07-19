@@ -34,7 +34,7 @@
 <picture>
   <source srcset="https://wakatime.com/share/@cxl2020MC/fc080330-aec0-4827-9c30-05c6aaaa7862.svg" media="(prefers-color-scheme: dark)"
   />
-  <img src="https://wakatime.com/share/@cxl2020MC/ce0e998b-6484-4024-a1c2-dc297291ad53.svg" art="WakeTime 编码时间统计" />
+  <img src="https://wakatime.com/share/@cxl2020MC/ce0e998b-6484-4024-a1c2-dc297291ad53.svg" art="WakeTime 编码统计" />
 </picture>
 
 ![](https://count.kjchmc.cn/get/@cxl2020mc-gh?theme=minecraft)
