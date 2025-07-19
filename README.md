@@ -26,10 +26,13 @@
 
 [![cxl2020MC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cxl2020MC)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![WakeTime 编码时间统计卡片 暗色](https://wakatime.com/share/@cxl2020MC/2190d612-931f-45de-bdd8-f370c6715c9e.svg#gh-dark-mode-only)
 
-![WakeTine 编码时间统计卡片 亮色](https://wakatime.com/share/@cxl2020MC/9bffedfa-c956-431e-8025-75a97f96b19b.svg#gh-light-mode-only)
 
+<picture>
+  <source srcset="https://wakatime.com/share/@cxl2020MC/2190d612-931f-45de-bdd8-f370c6715c9e.svg" media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://wakatime.com/share/@cxl2020MC/9bffedfa-c956-431e-8025-75a97f96b19b.svg" art="WakeTime 编码时间统计" />
+</picture>
 
 <picture>
   <source srcset="https://wakatime.com/share/@cxl2020MC/fc080330-aec0-4827-9c30-05c6aaaa7862.svg" media="(prefers-color-scheme: dark)"
