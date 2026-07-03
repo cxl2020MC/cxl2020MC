@@ -1,4 +1,4 @@
-<img width="1901" height="1080" alt="image" src="https://github.com/user-attachments/assets/24cfae35-b308-4c41-a1c6-afa13115f0fd" />你好，我是 cxl2020MC ，很高兴认识你！
+你好，我是 cxl2020MC ，很高兴认识你！
 
 こんにちは、cxl2020MCです。お会いできてうれしいです
 
