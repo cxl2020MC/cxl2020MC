@@ -1,4 +1,4 @@
-你好，我是 cxl2020MC ，很高兴认识你！
+<img width="1901" height="1080" alt="image" src="https://github.com/user-attachments/assets/24cfae35-b308-4c41-a1c6-afa13115f0fd" />你好，我是 cxl2020MC ，很高兴认识你！
 
 こんにちは、cxl2020MCです。お会いできてうれしいです
 
@@ -56,4 +56,11 @@
   <img src="https://gitroll.io/api/badges/profiles/v1/uWrEksvtcD2X6jPedmExRy48iLgM2?theme=light" art="GitRoll Profile Badge" />
 </picture>
 </a>
+
+<picture>
+  <source srcset="https://ghfind.com/api/card/cxl2020mc?theme=dark" media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://ghfind.com/api/card/cxl2020mc?theme=light" art="ghfind Profile Badge" />
+</picture>
+
 
