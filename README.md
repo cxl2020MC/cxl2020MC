@@ -57,10 +57,11 @@
 </picture>
 </a>
 
-<picture>
-  <source srcset="https://ghfind.com/api/card/cxl2020mc?theme=dark" media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://ghfind.com/api/card/cxl2020mc?theme=light" art="ghfind Profile Badge" />
-</picture>
+<a href="https://ghfind.com/u/cxl2020mc?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/cxl2020mc?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/cxl2020mc?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 
 
